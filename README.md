@@ -7,4 +7,5 @@ web app creadas con la libreria streamlit utilizando los diferentes modelo de ma
 
 
 ### web apps:  
-1. [clasificadores](https://clasificador-app.herokuapp.com/)
+1. [clasificadores](https://clasificador-app.herokuapp.com/)  
+1. [NBA](https://nba-apy.herokuapp.com/)
