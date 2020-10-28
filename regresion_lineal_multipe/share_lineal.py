@@ -16,7 +16,7 @@ st.title('Regresion Lineal Multiple con streamlit')
 #--------------------------------------------#
 #Cargar los datos#
 #--------------------------------------------#
-df = pd.read_csv('Documents/Cursos de ML/aprende machine learning/articulos_ml.csv')
+df = pd.read_csv('articulos_ml.csv')
 df = df.dropna()
 st.write(df.head())
 
@@ -53,7 +53,7 @@ st.table(df2)
 #--------------------------------------------#
 #Cargar modelor#
 #--------------------------------------------#
-modelo = load('Documents/Cursos de ML/aprende machine learning/Regresion_lineal_multiple.joblib')
+modelo = load('Regresion_lineal_multiple.joblib')
 
 #--------------------------------------------#
 #Visualizar y predecir#
