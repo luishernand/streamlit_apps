@@ -15,4 +15,5 @@ Aqui encontraras los archivos de las diferentes app
 1. [casificador con mejoras](https://clasificadorapp.herokuapp.com/)  
 1. [NBA mejoras agre estadísticas](https://nba-references.herokuapp.com/)  
 1. [Pencil sketcher](https://pencil-app.herokuapp.com/)
+1. [Regresión lineal multiple](https://share.streamlit.io/luishernand/lineal_regression_app/main/share_lineal.py)
 
