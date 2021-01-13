@@ -8,6 +8,7 @@ web app creadas con la libreria streamlit utilizando los diferentes modelo de ma
 ### Repositorio  
 Aqui encontraras los archivos de las diferentes app
 1. [pencil_app](https://github.com/luishernand/pencil_app)
+1. [Machine learning tuning  hyperparametros y machine learning parametros](https://github.com/luishernand/ml_parameters_streamlit_app)
 
 ### web apps:  
 1. [clasificadores](https://clasificador-app.herokuapp.com/)  
