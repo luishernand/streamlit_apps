@@ -10,6 +10,7 @@ Aqui encontraras los archivos de las diferentes app
 1. [pencil_app](https://github.com/luishernand/pencil_app)
 1. [Machine learning tuning  hyperparametros y machine learning parametros](https://github.com/luishernand/ml_parameters_streamlit_app)
 1. [cryto analysis](https://github.com/luishernand/crypto_analysis)
+2. [web scraper](https://github.com/luishernand/web_scraper)
 
 ### web apps:  
 1. [clasificadores](https://clasificador-app.herokuapp.com/)  
@@ -22,6 +23,7 @@ Aqui encontraras los archivos de las diferentes app
 1. [Machine learning model parametros](https://share.streamlit.io/luishernand/ml_parameters_streamlit_app/main/ml_app.py)
 1. [EDA with streamlit profiling](https://eda-ap.herokuapp.com/)
 2. [crypto analysis](https://crypto-analysys.herokuapp.com/)
+3. [web scraper app](https://scraper-a.herokuapp.com/)
 
 
 
